@@ -7,26 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research associate at the University of Cambridge (affiliated with Trinity college). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
+I am currently a Research Associate at the University of Cambridge, affiliated with Trinity College. I have a background in Biomedical Engineering and hold a PhD in Psychiatry from the University of New South Wales. My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
 
-A data-driven personal website
+Work Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2024—2025 Research Associate. Department of psychology, University of Cambridge.
+2024—2024 Research Fellow. Department of psychology, Monash University.
+2023—2023 Research Assistant (casual). Faculty of Medicine and Health, UNSW (Australia).
+2019—2019 Research Assistant. Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University. 
+2022—2022 Medical assistant/receptionist (casual).  Healthpac Medical Centre (Australia).
+2017—2018 Marketing Assistant (part-time). Johnson & Johnson company.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publication
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Dong, C., Liu, T., Wen, W., Kochan, N. A., Jiang, J., Li, Q., ... & Sachdev, P. S. (2018). Altered functional connectivity strength in informant-reported subjective cognitive decline: a resting-state functional magnetic resonance imaging study. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 688-697.
+* Li, Q., Dong, C., Liu, T., Chen, X., Perry, A., Jiang, J., ... & Wen, W. (2020). Longitudinal changes in whole-brain functional connectivity strength patterns and the relationship with the global cognitive decline in older adults. Frontiers in Aging Neuroscience, 12, 71.
+* Liu, H., Liu, T., Jiang, J., Cheng, J., Liu, Y., Li, D., ... & Wen, W. (2020). Differential longitudinal changes in structural complexity and volumetric measures in community-dwelling older individuals. Neurobiology of aging, 91, 26-35.
+* Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Brodaty, H., Sachdev, P. S., & Wen, W. (2022). Parental life span and polygenic risk score of longevity are associated with white matter hyperintensities. The Journals of Gerontology: Series A, 77(4), 689-696.
+* Dong, C., & Hayashi, S. (2024). Deep learning applications in vascular dementia using neuroimaging. Current Opinion in Psychiatry, 37(2), 101-106.
+* Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Sachdev, P. S., & Wen, W. (2024). Brain structural covariances in the ageing brain in the UK Biobank. Brain Structure and Function, 229(5), 1165-1177.
+* Dong, C., Pan, Y., Thalamuthu, A., Jiang, J., Du, J., Mather, K. A., ... & Wen, W. (2024). Deep learning-derived age of hippocampus-centred regions is influenced by APOE genotype and modifiable risk factors. medRxiv, 2024-10.
+* Dong, C., Mather, K., Brodaty, H., Sachdev, P. S., Trollor, J., Harrison, F., ... & Dai, Z. (2025). The Role of Nutrition and Other Lifestyle Patterns in Mortality Risk in Older Adults with Multimorbidity. Nutrients, 17(5), 796.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+Conference and Presentation
+======
+(1)	Dong C, … Kourtzi Z. AI-guided tool for early dementia prediction based on blood marker and cognitive data outperforms PET biomarker-based predictions. Dementias Platform UK, 2025.
+(2)	Dong C, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. Brain anatomical imbalance mappings: associations with cognitive abilities, hand grip strength, and sequence variants. 2023 Annual Meeting of the Organization for Human Brain Mapping (OHBM), Montréal, Canada, from July 22 - July 26, 2023. Poster No: 2238.
+(3)	Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Sachdev PS, Wen W. The 1st Australian UK Biobank Research Symposium, Brisbane, Australia, February 7 and 8, 2024.
+(4)	Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. The brain age of hippocampus-centred regions and associations with APOE genotype. The 30th Organization for Human Brain Mapping (OHBM) Annual Meeting in Seoul, Korea.
+
 
 Create content & metadata
 ------
