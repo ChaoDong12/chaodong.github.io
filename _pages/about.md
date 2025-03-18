@@ -61,7 +61,7 @@ Others
 *	Willingness to go the extra mile to ensure project success.  
 
 Example:
-![Editing a markdown](/images/editing-talk.png)
+![Editing](./images/editing-talk.png)
 
 
 
