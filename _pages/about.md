@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chao Dong Website"
+title: "Welcome to my Website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,8 @@ Work Experience
 
 Publication
 ======
-* Dong, C., Liu, T., Wen, W., Kochan, N. A., Jiang, J., Li, Q., ... & Sachdev, P. S. (2018). Altered functional connectivity strength in informant-reported subjective cognitive decline: a resting-state functional magnetic resonance imaging study. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 688-697.
+* [Dong, C., Liu, T., Wen, W., Kochan, N. A., Jiang, J., Li, Q., ... & Sachdev, P. S. (2018). Altered functional connectivity strength in informant-reported subjective cognitive decline: a resting-state functional magnetic resonance imaging study. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 688-697](https://www.sciencedirect.com/science/article/pii/S2352872918300630)
+* .
 * Li, Q., Dong, C., Liu, T., Chen, X., Perry, A., Jiang, J., ... & Wen, W. (2020). Longitudinal changes in whole-brain functional connectivity strength patterns and the relationship with the global cognitive decline in older adults. Frontiers in Aging Neuroscience, 12, 71.
 * Liu, H., Liu, T., Jiang, J., Cheng, J., Liu, Y., Li, D., ... & Wen, W. (2020). Differential longitudinal changes in structural complexity and volumetric measures in community-dwelling older individuals. Neurobiology of aging, 91, 26-35.
 * Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Brodaty, H., Sachdev, P. S., & Wen, W. (2022). Parental life span and polygenic risk score of longevity are associated with white matter hyperintensities. The Journals of Gerontology: Series A, 77(4), 689-696.
