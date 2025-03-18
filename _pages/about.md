@@ -11,11 +11,10 @@ I am currently a Research Associate at the [University of Cambridge](https://www
 
 Work Experience
 ======
-* 2024—2025 Research Associate. Department of psychology, University of Cambridge.
-* 2024—2024 Research Fellow. Department of psychology, Monash University.
-* 2023—2023 Research Assistant (casual). Faculty of Medicine and Health, UNSW (Australia).
+* 2024—2025 Research Associate. [University of Cambridge](https://www.psychol.cam.ac.uk/).
+* 2024—2024 Research Fellow. [Monash University](https://www.monash.edu/medicine).
+* 2023—2023 Research Assistant (casual).[University of New South Wales](https://www.cheba.unsw.edu.au/).
 * 2019—2019 Research Assistant. Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University.
-* 2022—2022 Medical assistant/receptionist (casual).  Healthpac Medical Centre (Australia).
 * 2017—2018 Marketing Assistant (part-time). Johnson & Johnson company.
 
 Publication
