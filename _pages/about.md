@@ -12,6 +12,8 @@ I am currently a Research Associate at the [University of Cambridge](https://www
 I obtained my PhD in psychiatry in the [University of New South Wales](https://www.cheba.unsw.edu.au/) with prestigious Scientia PhD Scholarship, and earned my bachelor's and master's degrees in Biomedical Engineering.
 
 ------
+![Reseach](./images/thesis.png)
+
 
 Work Experience
 ======
@@ -60,9 +62,7 @@ Others
 *	Experience with machine learning, deep learning models, like convolutional neural networks (CNNs) using PyTorch.
 *	Willingness to go the extra mile to ensure project success.  
 
-Example:
-![Editing](./images/thesis.png)
-![Editing a markdown file for a talk](images/editing-talk.png)
+
 
 
 
