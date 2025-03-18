@@ -12,7 +12,6 @@ I am currently a Research Associate at the [University of Cambridge](https://www
 I obtained my PhD in psychiatry in the [University of New South Wales](https://www.cheba.unsw.edu.au/) with prestigious Scientia PhD Scholarship, and earned my bachelor's and master's degrees in Biomedical Engineering.
 
 ------
-![Reseach](./images/thesis.png) ![Reseach](./images/thesis_AI3.png)
 
 
 Work Experience
@@ -60,10 +59,9 @@ Others
 *	Experienced in data processing using R, Python, and MATLAB.
 *	Experience with neuroimaging data, such as functional and structural MRI, and software packages (FSL, FreeSurfer, SPM, fMRIPrep etc.).
 *	Experience with machine learning, deep learning models, like convolutional neural networks (CNNs) using PyTorch.
-*	Willingness to go the extra mile to ensure project success.  
+*	Willingness to go the extra mile to ensure project success.
 
-
-
+                 ![Reseach](./images/thesis.png) 
 
 
 
