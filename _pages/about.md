@@ -15,7 +15,7 @@ Work Experience
 * 2024—2024 Research Fellow. [Monash University](https://www.monash.edu/medicine).
 * 2023—2023 Research Assistant (casual).[University of New South Wales](https://www.cheba.unsw.edu.au/).
 * 2019—2019 Research Assistant. Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University.
-* 2017—2018 Marketing Assistant (part-time). Johnson & Johnson company.
+* 2017—2018 Marketing Assistant (part-time). [Johnson & Johnson company](https://www.jnj.com/).
 
 Publication
 ======
