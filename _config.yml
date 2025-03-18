@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Chao_Dong_Photo.JPG"
+  avatar           : "Chao_Dong.png"
   name             : "Chao Dong Profile"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "University of Cambridge"
   location         : "UK"
   employer         : "University of Cambridge"
-  uri              : # URL
+  uri              : https://www.cam.ac.uk/
   email            : "cd888@cam.ac.uk" 
 
   # Academic websites
