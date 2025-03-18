@@ -13,13 +13,6 @@ I obtained my PhD in psychiatry in the [University of New South Wales](https://w
 
 ------
 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-
 Work Experience
 ======
 * 2024—2025 Research Associate. [University of Cambridge](https://www.psychol.cam.ac.uk/).
