@@ -19,20 +19,19 @@ Work Experience
 
 Publication
 ======
+* [Dong, C., Mather, K., Brodaty, H., Sachdev, P. S., Trollor, J., Harrison, F., ... & Dai, Z. (2025). The Role of Nutrition and Other Lifestyle Patterns in Mortality Risk in Older Adults with Multimorbidity. Nutrients, 17(5), 796.]([https://www.psychol.cam.ac.uk/](https://www.mdpi.com/2072-6643/17/5/796)).
+* [Dong, C., Pan, Y., Thalamuthu, A., Jiang, J., Du, J., Mather, K. A., ... & Wen, W. (2024). Deep learning-derived age of hippocampus-centred regions is influenced by APOE genotype and modifiable risk factors. medRxiv, 2024-10.](https://www.medrxiv.org/content/10.1101/2024.10.27.24316212v1).
+* [Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Sachdev, P. S., & Wen, W. (2024). Brain structural covariances in the ageing brain in the UK Biobank. Brain Structure and Function, 229(5), 1165-1177.](https://link.springer.com/article/10.1007/s00429-024-02794-4).
+* [Dong, C., & Hayashi, S. (2024). Deep learning applications in vascular dementia using neuroimaging. Current Opinion in Psychiatry, 37(2), 101-106.](https://journals.lww.com/co-psychiatry/abstract/2024/03000/deep_learning_applications_in_vascular_dementia.8.aspx).
+* [Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Brodaty, H., Sachdev, P. S., & Wen, W. (2022). Parental life span and polygenic risk score of longevity are associated with white matter hyperintensities. The Journals of Gerontology: Series A, 77(4), 689-696.]([https://www.psychol.cam.ac.uk/](https://academic.oup.com/biomedgerontology/article/77/4/689/6409172?login=false)).
+* [Liu, H., Liu, T., Jiang, J., Cheng, J., Liu, Y., Li, D., ... & Wen, W. (2020). Differential longitudinal changes in structural complexity and volumetric measures in community-dwelling older individuals. Neurobiology of aging, 91, 26-35.](https://www.sciencedirect.com/science/article/abs/pii/S0197458020300567?via%3Dihub).
+* [Li, Q., Dong, C., Liu, T., Chen, X., Perry, A., Jiang, J., ... & Wen, W. (2020). Longitudinal changes in whole-brain functional connectivity strength patterns and the relationship with the global cognitive decline in older adults. Frontiers in Aging Neuroscience, 12, 71.](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2020.00071/full)
 * [Dong, C., Liu, T., Wen, W., Kochan, N. A., Jiang, J., Li, Q., ... & Sachdev, P. S. (2018). Altered functional connectivity strength in informant-reported subjective cognitive decline: a resting-state functional magnetic resonance imaging study. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 688-697](https://www.sciencedirect.com/science/article/pii/S2352872918300630)
-* .
-* Li, Q., Dong, C., Liu, T., Chen, X., Perry, A., Jiang, J., ... & Wen, W. (2020). Longitudinal changes in whole-brain functional connectivity strength patterns and the relationship with the global cognitive decline in older adults. Frontiers in Aging Neuroscience, 12, 71.
-* Liu, H., Liu, T., Jiang, J., Cheng, J., Liu, Y., Li, D., ... & Wen, W. (2020). Differential longitudinal changes in structural complexity and volumetric measures in community-dwelling older individuals. Neurobiology of aging, 91, 26-35.
-* Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Brodaty, H., Sachdev, P. S., & Wen, W. (2022). Parental life span and polygenic risk score of longevity are associated with white matter hyperintensities. The Journals of Gerontology: Series A, 77(4), 689-696.
-* Dong, C., & Hayashi, S. (2024). Deep learning applications in vascular dementia using neuroimaging. Current Opinion in Psychiatry, 37(2), 101-106.
-* Dong, C., Thalamuthu, A., Jiang, J., Mather, K. A., Sachdev, P. S., & Wen, W. (2024). Brain structural covariances in the ageing brain in the UK Biobank. Brain Structure and Function, 229(5), 1165-1177.
-* Dong, C., Pan, Y., Thalamuthu, A., Jiang, J., Du, J., Mather, K. A., ... & Wen, W. (2024). Deep learning-derived age of hippocampus-centred regions is influenced by APOE genotype and modifiable risk factors. medRxiv, 2024-10.
-* Dong, C., Mather, K., Brodaty, H., Sachdev, P. S., Trollor, J., Harrison, F., ... & Dai, Z. (2025). The Role of Nutrition and Other Lifestyle Patterns in Mortality Risk in Older Adults with Multimorbidity. Nutrients, 17(5), 796.
-
+ 
 
 Conference and Presentation
 ======
-* Dong C, … Kourtzi Z. AI-guided tool for early dementia prediction based on blood marker and cognitive data outperforms PET biomarker-based predictions. Dementias Platform UK, 2025.
+* Dong C, … Kourtzi Z. AI-guided tool for early dementia prediction based on blood marker and cognitive data outperforms PET biomarker-based predictions. [Dementias Platform UK]([https://www.psychol.cam.ac.uk/](https://www.dementiasplatform.uk/), 2025
 * Dong C, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. Brain anatomical imbalance mappings: associations with cognitive abilities, hand grip strength, and sequence variants. 2023 Annual Meeting of the Organization for Human Brain Mapping (OHBM), Montréal, Canada, from July 22 - July 26, 2023. Poster No: 2238.
 * Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Sachdev PS, Wen W. The 1st Australian UK Biobank Research Symposium, Brisbane, Australia, February 7 and 8, 2024.
 * Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. The brain age of hippocampus-centred regions and associations with APOE genotype. The 30th Organization for Human Brain Mapping (OHBM) Annual Meeting in Seoul, Korea.
