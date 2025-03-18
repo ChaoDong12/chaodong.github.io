@@ -12,7 +12,7 @@ I am currently a Research Associate at the [University of Cambridge](https://www
 I obtained my PhD in psychiatry in the [University of New South Wales](https://www.cheba.unsw.edu.au/) with prestigious Scientia PhD Scholarship, and earned my bachelor's and master's degrees in Biomedical Engineering.
 
 ------
-![Reseach](./images/thesis.png)
+![Reseach](./images/thesis.png) (./images/thesis_AI3.png)
 
 
 Work Experience
