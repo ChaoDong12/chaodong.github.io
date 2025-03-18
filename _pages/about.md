@@ -10,14 +10,7 @@ redirect_from:
 I am currently a Research Associate at the [University of Cambridge](https://www.psychol.cam.ac.uk/), affiliated with [Trinity College](https://www.trin.cam.ac.uk/). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
 
 I obtained my PhD in psychiatry in the [University of New South Wales](https://www.cheba.unsw.edu.au/) with prestigious Scientia PhD Scholarship, and earned my bachelor's and master's degrees in Biomedical Engineering. 
-
----
----
-
-
-For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 Work Experience
 ======
