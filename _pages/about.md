@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chao Dong--University of Cambridge"
+title: "Welcome to Chao Dong Website"
 author_profile: true
 redirect_from: 
   - /about/
