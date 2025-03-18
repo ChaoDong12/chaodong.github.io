@@ -39,9 +39,9 @@ Publication
 Conference and Presentation
 ======
 * Dong C, … Kourtzi Z. AI-guided tool for early dementia prediction based on blood marker and cognitive data outperforms PET biomarker-based predictions. [Dementias Platform UK](https://www.dementiasplatform.uk/), 2025
-* Dong C, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. Brain anatomical imbalance mappings: associations with cognitive abilities, hand grip strength, and sequence variants. 2023 Annual Meeting of the Organization for Human Brain Mapping (OHBM), Montréal, Canada, from July 22 - July 26, 2023. Poster No: 2238.
+* Dong C, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. Brain anatomical imbalance mappings: associations with cognitive abilities, hand grip strength, and sequence variants. 2023 Annual Meeting of the [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)., Montréal, Canada, from July 22 - July 26, 2023. Poster No: 2238.
 * Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Sachdev PS, Wen W. The 1st Australian UK Biobank Research Symposium, Brisbane, Australia, February 7 and 8, 2024.
-* Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. The brain age of hippocampus-centred regions and associations with APOE genotype. The 30th Organization for Human Brain Mapping (OHBM) Annual Meeting in Seoul, Korea.
+* Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. The brain age of hippocampus-centred regions and associations with APOE genotype. The 30th [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1). Annual Meeting in Seoul, Korea.
 
 
 Membership
