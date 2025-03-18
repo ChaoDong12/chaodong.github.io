@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate at the [University of Cambridge](https://www.psychol.cam.ac.uk/), affiliated with [Trinity College](https://www.trin.cam.ac.uk/). I have a background in Biomedical Engineering and hold a PhD in Psychiatry from the [University of New South Wales](https://www.cheba.unsw.edu.au/). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
+I am currently a Research Associate at the [University of Cambridge](https://www.psychol.cam.ac.uk/), affiliated with [Trinity College](https://www.trin.cam.ac.uk/). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
+I obtained my PhD in psychiatry in the [University of New South Wales](https://www![image](https://github.com/user-attachments/assets/0bd3b5e7-ce2f-49b2-9992-0aac4e480866) with prestigious Scientia PhD Scholorship, and earned my bachelor's and master's degrees in Biomedical Engineering. 
+
 
 Work Experience
 ======
