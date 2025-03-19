@@ -10,6 +10,7 @@ redirect_from:
 I am currently a Research Associate at the [University of Cambridge](https://www.psychol.cam.ac.uk/), affiliated with [Trinity College](https://www.trin.cam.ac.uk/). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers.
 
 I obtained my PhD in psychiatry in the [University of New South Wales](https://www.cheba.unsw.edu.au/) with prestigious Scientia PhD Scholarship, and earned my bachelor's and master's degrees in Biomedical Engineering.
+I earned my bachelor's and master's degrees in Biomedical Engineering before obtaining my PhD in Psychiatry from the University of New South Wales (UNSW) with the prestigious Scientia PhD Scholarship. During my time at the [Centre for Healthy Brain Ageing (CHeBA)](https://www.cheba.unsw.edu.au/blog/chao-dong-meet-our-researcher-series) at UNSW, I conducted research under the guidance of my supervisors: [Wei Wen](https://scholar.google.com.au/citations?user=j-m4_E8AAAAJ&hl=en), [Karen A. Mather](https://scholar.google.com.au/citations?user=yQurwtYAAAAJ&hl=en), [Anbupalam Thalamuthu](https://scholar.google.com.au/citations?user=QPcKQVMAAAAJ&hl=en), [Perminder S. Sachdev](https://scholar.google.com.au/citations?user=joXgLDoAAAAJ&hl=en), and [Jiyang Jiang](https://scholar.google.com.au/citations?user=rLJeyIIAAAAJ&hl=en&oi=ao).
 
 ------
 
@@ -24,6 +25,8 @@ Work Experience
 
 Publication
 ======
+Can see my [Google Scolor](https://scholar.google.com.au/citations?user=LqtS59sAAAAJ&hl=en).
+
 * [Dong, C., Mather, K., Brodaty, H., Sachdev, P. S., Trollor, J., Harrison, F., ... & Dai, Z. (2025). The Role of Nutrition and Other Lifestyle Patterns in Mortality Risk in Older Adults with Multimorbidity. Nutrients, 17(5), 796.](https://www.mdpi.com/2072-6643/17/5/796).
 
 * [Dong, C., Pan, Y., Thalamuthu, A., Jiang, J., Du, J., Mather, K. A., ... & Wen, W. (2024). Deep learning-derived age of hippocampus-centred regions is influenced by APOE genotype and modifiable risk factors. medRxiv, 2024-10.](https://www.medrxiv.org/content/10.1101/2024.10.27.24316212v1).
