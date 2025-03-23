@@ -50,6 +50,11 @@ Conference and Presentation
 * Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Sachdev PS, Wen W. The 1st Australian UK Biobank Research Symposium, Brisbane, Australia, February 7 and 8, 2024.
 * Dong C, Pan Y, Thalamuthu A, Jiang J, Mather KA, Brodaty H, Sachdev PS, Wen W. The brain age of hippocampus-centred regions and associations with APOE genotype. The 30th [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1). Annual Meeting in Seoul, Korea.
 
+Awards
+------
+* Scientia PhD Scholarship – Australia’s Premier Research Award
+  
+The Scientia PhD Scholarship is the most prestigious and competitive scholarship at the University of New South Wales (UNSW), Australia. It is designed to attract the brightest and most talented researchers from around the world, providing them with the resources and opportunities to excel in their chosen fields. This scholarship embodies excellence, leadership, and impact, making it the top PhD scholarship in Australia.
 
 Membership
 ------
