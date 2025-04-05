@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='./images/Ch
 collection: portfolio
 ---
 
- 	![Editing](./images/Chao_black_01_new.jpg)
+ 	![Editing](./images/thesis.png)
