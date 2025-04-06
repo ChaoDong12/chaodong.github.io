@@ -61,7 +61,7 @@ Membership
 * Member of The Organization for Human Brain Mapping (OHBM) which is the primary international organization dedicated to neuroimaging.
 * Member of The Medical Image Computing and Computer Assisted Intervention Society (the MICCAI Society) which is a leading international forum for medical image computing, computer-assisted intervention, and medical robotics.
 
-Others
+Skills
 ------
 *	Experienced in data processing using R, Python, and MATLAB.
 *	Experience with neuroimaging data, such as functional and structural MRI, and software packages (FSL, FreeSurfer, SPM, fMRIPrep etc.).
@@ -72,9 +72,10 @@ Theme
 ------
  * ![Editing](./images/thesis.png)
 
-Photo
+Others
 ------
-* ![Editing](./images/Chao_black_01_new_01.jpg)
+* Outside of research, I enjoy photography and a big fan of dresses.
+  ![Editing](./images/Chao_black_01_new_01.jpg)
 
  
 
