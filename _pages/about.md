@@ -74,7 +74,8 @@ Theme
 
 Others
 ------
-* Outside of research, I enjoy photography and a big fan of dresses.
+* Outside of research, I enjoy photography and a big fan of dresses!
+  
   ![Editing](./images/Chao_black_01_new_01.jpg)
 
  
