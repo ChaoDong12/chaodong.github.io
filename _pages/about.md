@@ -68,9 +68,13 @@ Others
 *	Experience with machine learning, deep learning models, like convolutional neural networks (CNNs) using PyTorch.
 *	Willingness to go the extra mile to ensure project success.
 
- 	![Editing](./images/thesis.png)
+Theme
+------
+ * ![Editing](./images/thesis.png)
 
-  ![Editing](./images/Chao_black_01_new_01.jpg)
+Photo
+------
+* ![Editing](./images/Chao_black_01_new_01.jpg)
 
  
 
