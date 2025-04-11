@@ -24,7 +24,7 @@ Work Experience
 
 Research Projects
 ======
-* [ AI-guided detection of Alzheimer’s disease based on blood markers and cognition ]: Exploring to replace β-amyloid PET with blood markers supports reliable detection of AD, providing a more accessible and cost-effective tool for dementia diagnosis using AI model.
+* { AI-guided detection of Alzheimer’s disease based on blood markers and cognition }: Exploring to replace β-amyloid PET with blood markers supports reliable detection of AD, providing a more accessible and cost-effective tool for dementia diagnosis using AI model.
   
 * [ 7T Laminar MRI preprocessing and functional connectivity analysis ]: Preprocessing  7T laminar task-based fMRI data using SPM 12. Analyse network-based functional connectivity.
   
