@@ -22,9 +22,24 @@ Work Experience
 * 2019—2019 Research Assistant. Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University.
 * 2017—2018 Marketing Assistant (part-time). [Johnson & Johnson company](https://www.jnj.com/).
 
+Research Projects
+======
+* [ AI-guided detection of Alzheimer’s disease based on blood markers and cognition ]: Exploring to replace β-amyloid PET with blood markers supports reliable detection of AD, providing a more accessible and cost-effective tool for dementia diagnosis using AI model.
+  
+* [ 7T Laminar MRI preprocessing and functional connectivity analysis ]: Preprocessing  7T laminar task-based fMRI data using SPM 12. Analyse network-based functional connectivity.
+  
+* [ Hippocampus-centred brain age prediction using deep learning ]: Using brain hippocampus local structure to train deep learning convolutional neural networks (CNN) models. Brain age gap was analysed with cognition, Apolipoprotein E (APOE) genotype, and lifestyle risk factors in both cross-sectional and longitudinal settings.
+  
+* [ Brain structural covariances and genetic architecture of brain imbalance mapping ]: Investigating brain structural covariances in ageing by using UK Biobank dataset (>40,000). Genome-wide association studies (GWAS) were performed to explore brain imbalance genetic architecture. Investigating associations between brain imbalance mapping, cognition, and hand grip strength.
+  
+* [ Associations between human longevity, genetics, and brain MRI metrics ]: Using UK Biobanks cohort, Sydney Memory and Ageing Study (MAS) cohort, and Older Australian Twins Study (OATS) to explore the associations between polygenic risk score (PRS) for longevity and structural MRI brain metrics (including grey matter volume and white matter hyperintensities).
+  
+* [ Neuroimaging of healthy ageing and subjective cognitive decline by rs-fMRI ]: Using resting-state functional MRI (rs-fMRI) data to explore brain functional connectivity in older people and differences between healthy and unhealthy elderly in Sydney Memory and Ageing Study.
+
+
 Publication
 ======
-Can see my [Google Scolor](https://scholar.google.com.au/citations?user=LqtS59sAAAAJ&hl=en).
+Can see my [Google Scholar](https://scholar.google.com.au/citations?user=LqtS59sAAAAJ&hl=en).
 
 * [Dong, C., Mather, K., Brodaty, H., Sachdev, P. S., Trollor, J., Harrison, F., ... & Dai, Z. (2025). The Role of Nutrition and Other Lifestyle Patterns in Mortality Risk in Older Adults with Multimorbidity. Nutrients, 17(5), 796.](https://www.mdpi.com/2072-6643/17/5/796).
 
