@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Please visite my new website here: https://chaodong12.github.io/chaodong/
+Please visite my new website here: [My New Website](https://chaodong12.github.io/chaodong/).
+
 
 I am currently a Research Associate at the [University of Cambridge](https://www.psychol.cam.ac.uk/), affiliated with [Trinity College](https://www.trin.cam.ac.uk/). My research focuses on dementia diagnosis using machine learning. With a multidisciplinary approach combining biomedical engineering, neuroimaging, neuroscience, and machine learning techniques, my research aims to deepen our understanding of human longevity mechanics, ageing-related diseases, genetic determinants of brain structure, and the identification of reliable brain ageing or dementia biomarkers. My PhD thesis is "Genetic and environmental influences on human brain changes in ageing".
 
